@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unreal projects\\actorutils\\plugins\\azp_actorutils\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\azp_actorutils\\module.azp_actorutils.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unreal projects\\actorutils\\intermediate\\build\\win64\\x64\\actorutilseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\unreal projects\\actorutils\\plugins\\azp_actorutils\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\azp_actorutils\\definitions.azp_actorutils.h",
+            "f:\\unreal projects\\actorutils\\plugins\\azp_actorutils\\intermediate\\build\\win64\\unrealeditor\\inc\\azp_actorutils\\uht\\azp_actorutils.init.gen.cpp",
+            "f:\\unreal projects\\actorutils\\plugins\\azp_actorutils\\intermediate\\build\\win64\\unrealeditor\\inc\\azp_actorutils\\uht\\azp_actorutilsbplibrary.gen.cpp",
+            "f:\\unreal projects\\actorutils\\plugins\\azp_actorutils\\source\\azp_actorutils\\public\\azp_actorutilsbplibrary.h",
+            "f:\\unreal projects\\actorutils\\plugins\\azp_actorutils\\intermediate\\build\\win64\\unrealeditor\\inc\\azp_actorutils\\uht\\azp_actorutilsbplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

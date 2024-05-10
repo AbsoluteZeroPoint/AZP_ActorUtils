@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unreal projects\\actorutils\\plugins\\azp_actorutils\\source\\azp_actorutils\\private\\azp_actorutilsbplibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unreal projects\\actorutils\\intermediate\\build\\win64\\x64\\actorutilseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\unreal projects\\actorutils\\plugins\\azp_actorutils\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\azp_actorutils\\definitions.azp_actorutils.h",
+            "f:\\unreal projects\\actorutils\\plugins\\azp_actorutils\\source\\azp_actorutils\\public\\azp_actorutilsbplibrary.h",
+            "f:\\unreal projects\\actorutils\\plugins\\azp_actorutils\\intermediate\\build\\win64\\unrealeditor\\inc\\azp_actorutils\\uht\\azp_actorutilsbplibrary.generated.h",
+            "f:\\unreal projects\\actorutils\\plugins\\azp_actorutils\\source\\azp_actorutils\\public\\azp_actorutils.h",
+            "f:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "f:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "f:\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "f:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "f:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "f:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "f:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "f:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "f:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "f:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "f:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "f:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "f:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\projectilemovementcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

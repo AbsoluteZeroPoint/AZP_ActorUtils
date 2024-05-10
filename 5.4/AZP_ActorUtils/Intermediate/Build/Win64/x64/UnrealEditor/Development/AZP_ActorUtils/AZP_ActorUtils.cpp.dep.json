@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unreal projects\\actorutils\\plugins\\azp_actorutils\\source\\azp_actorutils\\private\\azp_actorutils.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unreal projects\\actorutils\\intermediate\\build\\win64\\x64\\actorutilseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\unreal projects\\actorutils\\plugins\\azp_actorutils\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\azp_actorutils\\definitions.azp_actorutils.h",
+            "f:\\unreal projects\\actorutils\\plugins\\azp_actorutils\\source\\azp_actorutils\\public\\azp_actorutils.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

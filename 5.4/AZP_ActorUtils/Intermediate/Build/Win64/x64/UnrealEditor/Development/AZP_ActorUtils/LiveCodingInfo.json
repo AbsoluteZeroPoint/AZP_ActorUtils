@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AZP_ActorUtils.cpp.obj": [
+			"AZP_ActorUtils.init.gen.cpp.obj",
+			"AZP_ActorUtilsBPLibrary.gen.cpp.obj",
+			"AZP_ActorUtils.cpp.obj",
+			"AZP_ActorUtilsBPLibrary.cpp.obj"
+		]
+	}
+}
